@@ -1,0 +1,66 @@
+[submodule "dot.vim/bundle/C64.vim"]
+	path = dot.vim/bundle/C64.vim
+	url = https://github.com/vim-scripts/C64.vim.git
+[submodule "dot.vim/bundle/L9"]
+	path = dot.vim/bundle/L9
+	url = https://github.com/vim-scripts/L9.git
+[submodule "dot.vim/bundle/Zenburn"]
+	path = dot.vim/bundle/Zenburn
+	url = https://github.com/jnurmine/Zenburn.git
+[submodule "dot.vim/bundle/ack.vim"]
+	path = dot.vim/bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "dot.vim/bundle/coc.nvim"]
+	path = dot.vim/bundle/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "dot.vim/bundle/ctrlp.vim"]
+	path = dot.vim/bundle/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "dot.vim/bundle/editorconfig-vim"]
+	path = dot.vim/bundle/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "dot.vim/bundle/emmet-vim"]
+	path = dot.vim/bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "dot.vim/bundle/further.vim"]
+	path = dot.vim/bundle/further.vim
+	url = https://github.com/PsychoLlama/further.vim.git
+[submodule "dot.vim/bundle/nerdtree"]
+	path = dot.vim/bundle/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "dot.vim/bundle/setcolors.vim"]
+	path = dot.vim/bundle/setcolors.vim
+	url = https://github.com/felixhummel/setcolors.vim.git
+[submodule "dot.vim/bundle/syntastic"]
+	path = dot.vim/bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "dot.vim/bundle/tabular"]
+	path = dot.vim/bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "dot.vim/bundle/typescript-vim"]
+	path = dot.vim/bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "dot.vim/bundle/vim-airline"]
+	path = dot.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "dot.vim/bundle/vim-colorschemes"]
+	path = dot.vim/bundle/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "dot.vim/bundle/vim-fugitive"]
+	path = dot.vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "dot.vim/bundle/vim-graphql"]
+	path = dot.vim/bundle/vim-graphql
+	url = https://github.com/jparise/vim-graphql.git
+[submodule "dot.vim/bundle/vim-javascript"]
+	path = dot.vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "dot.vim/bundle/vim-vue"]
+	path = dot.vim/bundle/vim-vue
+	url = https://github.com/posva/vim-vue.git
+[submodule "dot.vim/bundle/vim-vue-syntastic"]
+	path = dot.vim/bundle/vim-vue-syntastic
+	url = https://github.com/sekel/vim-vue-syntastic.git
+[submodule "dot.vim/bundle/vim-www"]
+	path = dot.vim/bundle/vim-www
+	url = https://github.com/waiting-for-dev/vim-www.git
